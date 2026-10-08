@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  jokeAPI
-//
-//  Created by Luis on 07/10/26.
-//
-
 import SwiftUI
 
 struct ContentView: View {
